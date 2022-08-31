@@ -14,7 +14,7 @@ public class main
 {
     public static <bool> void main(String [] args)
     {
-        System.setProperty("webdriver.chrome.driver", "/Users/valeksa/IdeaProjects/Repository/Repository/chromedriver-102.0.5005.61");
+        System.setProperty("webdriver.chrome.driver", "/Users/valeksa/IdeaProjects/Repository/Repository/chromedriver");
         int itemsQuantity = 3;
         String searchPhrase = "Телефон";
 
